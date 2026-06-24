@@ -129,7 +129,7 @@ PynqDB is currently in private beta.
 
 ** Drop your public Repo. No credit card.**
 
-→ [Join the Beta]((https://pynqdb.carrd.co))
+→ [Join the Beta](https://pynqdb.carrd.co)
 
 Want to see your own codebase mapped before installing?
 Drop a link to any public repository and we'll run PynqDB
